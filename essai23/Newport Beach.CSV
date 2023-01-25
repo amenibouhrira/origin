@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""25807"",""8232 Roanwood Way"","""",""Newport Beach"",""9"",""92625"",""{30527330-27B1-4595-A2FD-00DC5775D33A}"",""2013-01-11 00:00:00""
+""26060"",""225 Piedmont"","""",""Newport Beach"",""9"",""92625"",""{4826A107-4028-40E8-865A-45274338C11E}"",""2013-06-12 00:00:00""
+""26324"",""2206 Clear View Circle"","""",""Newport Beach"",""9"",""92625"",""{4703B9F2-F4BA-4074-868D-F7A55018AC3D}"",""2013-01-11 00:00:00""
+""28446"",""6146 Holland Drive"","""",""Newport Beach"",""9"",""92625"",""{04A0477E-1754-4BA5-A7E8-6D84064AEE52}"",""2013-06-08 00:00:00""

@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22819"",""3987 Spring Water St."","""",""Fremont"",""9"",""94536"",""{FE83F495-34AF-4D29-83C8-4B53A9D5FDFD}"",""2013-03-10 00:00:00""
+""26249"",""3697 Leland Way"","""",""Fremont"",""9"",""94536"",""{6AB4F789-B512-47E0-9D92-2C64E61137B4}"",""2013-01-12 00:00:00""
+""26627"",""3607 Cloudview Dr."","""",""Fremont"",""9"",""94536"",""{6B87805B-329B-404E-95EE-26093C5E57F7}"",""2014-06-02 00:00:00""

@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22398"",""3513 Dorset Way"","""",""Seattle"",""79"",""98104"",""{47AC45E1-3565-4A96-9370-186304751A78}"",""2014-01-05 00:00:00""
+""25944"",""6385 Mark Twain"","""",""Seattle"",""79"",""98104"",""{AF4178FF-7BA1-44D4-A4DF-6BC98E952434}"",""2012-12-06 00:00:00""
+""28721"",""8757 Keith Court"","""",""Seattle"",""79"",""98104"",""{22856FD6-8B8C-40A0-AF11-D2AA71BEBE5D}"",""2014-04-01 00:00:00""

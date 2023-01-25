@@ -1,0 +1,8 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22158"",""8568 San Vincente Drive"","""",""Milsons Point"",""50"",""2061"",""{89DEF8E9-CDC1-4FCF-9D2C-E28F60D1F6DA}"",""2011-11-10 00:00:00""
+""22409"",""7547 Delta Fair Blvd."","""",""Milsons Point"",""50"",""2061"",""{36587DFC-F89C-4B6C-8C11-FFDFE1EF47F3}"",""2013-04-09 00:00:00""
+""23089"",""1005 Tanager Court"","""",""Milsons Point"",""50"",""2061"",""{B586F5B0-D23F-47EA-B219-EE697D5780E9}"",""2013-11-01 00:00:00""
+""25433"",""7834 Roux Court"","""",""Milsons Point"",""50"",""2061"",""{F60754ED-6163-4D5C-BB23-0EA1A7DBDF83}"",""2012-08-03 00:00:00""
+""26558"",""4251 San Onofre Court"","""",""Milsons Point"",""50"",""2061"",""{C2C56930-02EF-4D9F-8A5A-E2F13BBA15B1}"",""2012-01-01 00:00:00""
+""28420"",""5455 Grenola Dr"","""",""Milsons Point"",""50"",""2061"",""{8B5E9436-ADD0-4F1D-8069-2035111418F1}"",""2011-10-06 00:00:00""
+""28857"",""8785 Whitehall Drive"","""",""Milsons Point"",""50"",""2061"",""{CD2989B2-E2DF-42BA-833D-E0FA1FC8A669}"",""2013-12-02 00:00:00""

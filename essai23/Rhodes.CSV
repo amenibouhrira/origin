@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22415"",""3985 Jacqueline Drive"","""",""Rhodes"",""50"",""2138"",""{2C3EA26D-4636-4B58-8858-6614A69AA675}"",""2014-02-05 00:00:00""
+""22422"",""8595 Mariposa Ct"","""",""Rhodes"",""50"",""2138"",""{4806B123-E2D2-4491-92B1-F4A8A6EFA3BD}"",""2012-04-06 00:00:00""
+""22864"",""5385 Sony Hill Circle"","""",""Rhodes"",""50"",""2138"",""{D554EDB5-E618-40B5-8BED-BF05EEDC87D5}"",""2014-02-04 00:00:00""
+""26403"",""5727 Eola"","""",""Rhodes"",""50"",""2138"",""{AC3973FF-355C-47B6-BD71-000E1B6F2C02}"",""2011-04-07 00:00:00""

@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22721"",""4242 Coggins Dr."","""",""Milwaukie"",""58"",""97222"",""{CA8EA0AC-E536-441F-8E71-92EF8CA44BF7}"",""2014-01-02 00:00:00""
+""28246"",""8751 Norse Drive"","""",""Milwaukie"",""58"",""97222"",""{E250C380-2B93-4526-A56E-3532C1A000A1}"",""2013-03-07 00:00:00""
+""28496"",""6353 Dan Ysidro Court"","""",""Milwaukie"",""58"",""97222"",""{B2118CEF-E2B8-4A75-B1A5-3DD6F205DFAC}"",""2014-05-01 00:00:00""
+""28845"",""1061 Delta Fair Blvd."","""",""Milwaukie"",""58"",""97222"",""{A532201C-0926-49A9-9A6F-A802CE023356}"",""2013-01-10 00:00:00""

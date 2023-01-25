@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22929"",""4193 E. 28th Street"","""",""Reading"",""14"",""RG7 5H7"",""{D826B831-A1B1-42A4-A739-A99E4746C86A}"",""2014-04-02 00:00:00""
+""25522"",""6161 Sanders St."","""",""Reading"",""14"",""RG7 5H7"",""{D5A4988F-CB1A-4FA0-9331-D9EA89F9EC4C}"",""2013-08-11 00:00:00""
+""28185"",""6772 Northstar Drive"","""",""Reading"",""14"",""RG7 5H7"",""{01F0C34E-DA8F-4FA8-964B-8D8F6CF0A964}"",""2011-11-09 00:00:00""
+""28808"",""2581 Bentley Ct"","""",""Reading"",""14"",""RG7 5H7"",""{9CCEE285-B0A6-4AC2-A875-50B20322AE7D}"",""2011-04-09 00:00:00""

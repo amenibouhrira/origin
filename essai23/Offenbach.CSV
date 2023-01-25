@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22614"",""Postfach 66 00 77"",""Kreditorenbuchhaltung"",""Offenbach"",""70"",""63009"",""{F69F2559-68E1-4025-8CDA-D4EB158D4D22}"",""2012-11-02 00:00:00""
+""25423"",""Nollendorfplatz 62"","""",""Offenbach"",""70"",""63009"",""{557D7DEA-B84B-4505-A734-5FB3313D61BB}"",""2012-10-10 00:00:00""
+""26752"",""Am Grossen Dern 2547"","""",""Offenbach"",""70"",""63009"",""{218316F5-DDDD-48F6-958C-8C48E01D0B61}"",""2014-11-03 00:00:00""
+""28650"",""Hochstr 2777"","""",""Offenbach"",""70"",""63009"",""{C52A0DA4-1649-4F18-AC49-656C185435D8}"",""2013-09-12 00:00:00""

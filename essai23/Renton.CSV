@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22185"",""2801 San Ramon Road"","""",""Renton"",""79"",""98055"",""{19BF3E25-0BC6-4A58-B1E5-1836DC229FD8}"",""2013-09-09 00:00:00""
+""25621"",""8859 Reliz Valley Road"","""",""Renton"",""79"",""98055"",""{89CA5BD3-B12B-4349-AEFD-0E444C7B13CE}"",""2014-08-05 00:00:00""
+""25999"",""9808 Deerfield Dr."","""",""Renton"",""79"",""98055"",""{5DE00F7C-E14A-4517-9041-57BA8B4CBE9E}"",""2011-05-11 00:00:00""
+""26269"",""9891 Clayton Way"","""",""Renton"",""79"",""98055"",""{7386B2F2-1EDF-4424-A213-C059B693F5A0}"",""2014-09-04 00:00:00""

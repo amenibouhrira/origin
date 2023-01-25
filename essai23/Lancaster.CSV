@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""25552"",""6208 Artnell Ct"","""",""Lancaster"",""14"",""LA1 1LN"",""{7CCBD34E-3BB7-48C5-AB2E-02472716B5E3}"",""2013-04-09 00:00:00""
+""25620"",""9534 Ridgewood Ct."","""",""Lancaster"",""14"",""LA1 1LN"",""{5CB76F05-9FCD-40B6-8580-838A83024306}"",""2014-09-05 00:00:00""
+""26035"",""3526 Dover Way"","""",""Lancaster"",""14"",""LA1 1LN"",""{79A32A32-CA12-4EC7-B864-865E5E88F7AB}"",""2013-12-10 00:00:00""

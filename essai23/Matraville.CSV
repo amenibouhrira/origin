@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22987"",""6465 Detroit Ave."","""",""Matraville"",""50"",""2036"",""{38B8A30F-2894-485E-9E93-914DEDA49935}"",""2011-04-07 00:00:00""
+""25449"",""1020 Carletto Drive"","""",""Matraville"",""50"",""2036"",""{B9780ED0-4C88-45C7-96D4-4ACFD8017479}"",""2011-10-12 00:00:00""
+""28717"",""9409 Cedar Point Loop"","""",""Matraville"",""50"",""2036"",""{2AFE1E70-D866-4B2E-B380-9FCA4D6FCBEB}"",""2013-03-11 00:00:00""

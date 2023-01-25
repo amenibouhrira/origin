@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22945"",""8548 Dewing Ave."","""",""Woolston"",""14"",""WA1 4SY"",""{F99D3745-637D-4952-A4D0-E18F4130D5B0}"",""2014-10-03 00:00:00""
+""25686"",""6196 Nottingham Place"","""",""Woolston"",""14"",""WA1 4SY"",""{A418F0E8-13BA-41B4-9351-6A1DD4224E9C}"",""2014-12-04 00:00:00""
+""26430"",""6289 Duck Horn Court"","""",""Woolston"",""14"",""WA1 4SY"",""{EE4070DB-65C2-4B1C-AC93-11961DA8097F}"",""2014-12-01 00:00:00""

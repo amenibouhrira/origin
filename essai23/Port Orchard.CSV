@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22296"",""1674 Castle Hill Road"","""",""Port Orchard"",""79"",""98366"",""{1F7C659E-4300-42F5-B72C-5E14C2C1421D}"",""2014-12-02 00:00:00""
+""25315"",""5237 Babel Lane"","""",""Port Orchard"",""79"",""98366"",""{2CE890FE-17C5-4212-BE4D-3CE4AA2CC855}"",""2013-02-10 00:00:00""
+""26786"",""9700 Terra Granada"","""",""Port Orchard"",""79"",""98366"",""{2239ADB8-85F8-4496-8B4A-15DB6F030667}"",""2013-04-01 00:00:00""

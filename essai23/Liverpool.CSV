@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22797"",""7995 Strasbourg Lane"","""",""Liverpool"",""14"",""L4 4HB"",""{461D2C63-FF13-4A41-8731-119D8F9A1AB8}"",""2014-07-01 00:00:00""
+""26304"",""9212 Tupelo Drive"","""",""Liverpool"",""14"",""L4 4HB"",""{A223D8C0-59D5-4F80-8A70-87C9794C024D}"",""2012-01-12 00:00:00""
+""28310"",""5684 Fitzuren"","""",""Liverpool"",""14"",""L4 4HB"",""{402552F2-6662-4A4D-894B-38F8AAA3BCCE}"",""2014-07-06 00:00:00""
+""28333"",""5950 Dakota Lane"","""",""Liverpool"",""14"",""L4 4HB"",""{BC1747BC-62AB-4BD4-9012-635D5FC9EA7B}"",""2013-06-08 00:00:00""

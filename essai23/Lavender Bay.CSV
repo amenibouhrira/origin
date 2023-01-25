@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22156"",""8313 Canyon Creek Drive"","""",""Lavender Bay"",""50"",""2060"",""{B783036C-B32D-4801-A79F-D9516287D02D}"",""2011-09-09 00:00:00""
+""28707"",""2559 Altura Drive"","""",""Lavender Bay"",""50"",""2060"",""{E89F32B4-BB87-44D1-925E-063CBCAF1207}"",""2012-06-11 00:00:00""
+""28971"",""2356 Orange St"","""",""Lavender Bay"",""50"",""2060"",""{7145B800-E293-4368-8A95-908E4E20E4FF}"",""2011-09-07 00:00:00""

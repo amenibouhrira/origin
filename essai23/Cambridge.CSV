@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22690"",""3857 Westchester Pl."","""",""Cambridge"",""14"",""CB4 4BZ"",""{9A8D01FB-ABC6-4249-AE2C-87890B67B7E6}"",""2013-07-10 00:00:00""
+""25427"",""3633 Stratton Circle"","""",""Cambridge"",""14"",""CB4 4BZ"",""{6B33464D-2A76-4BD5-B451-5DEACAE81D3B}"",""2013-10-10 00:00:00""
+""25690"",""6441 Roberta Avenue"","""",""Cambridge"",""14"",""CB4 4BZ"",""{E2B8FC7D-E583-40A3-806D-FAB25093DC47}"",""2014-08-02 00:00:00""

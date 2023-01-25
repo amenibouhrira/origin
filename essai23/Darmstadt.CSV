@@ -1,0 +1,6 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22290"",""Parise Straße 155"","""",""Darmstadt"",""19"",""64283"",""{EF51C4ED-EFC1-429C-89E0-9A6BA1377126}"",""2014-03-03 00:00:00""
+""22392"",""Hüttenstr 9005"","""",""Darmstadt"",""19"",""64283"",""{D7C1434E-5673-4BF2-AC30-D0EB23097765}"",""2013-06-08 00:00:00""
+""25852"",""Rotthäuser Weg 100"","""",""Darmstadt"",""19"",""64283"",""{0D08E75D-732A-4E9C-B46B-710DEE716D00}"",""2014-08-04 00:00:00""
+""28365"",""Zimmerstr 411"","""",""Darmstadt"",""19"",""64283"",""{30E164B2-A661-4C58-8D25-6B0D1D6DF524}"",""2012-03-03 00:00:00""
+""28560"",""Zollstr 68"",""Verkaufsabteilung"",""Darmstadt"",""19"",""64283"",""{60D444C7-DF7C-4B71-A108-036C56796846}"",""2013-12-10 00:00:00""

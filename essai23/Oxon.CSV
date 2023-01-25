@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""28192"",""9863 Ridge Place"","""",""Oxon"",""14"",""OX16 8RS"",""{3BFCF419-239D-49AC-9A40-BACB784C3DA6}"",""2013-01-01 00:00:00""
+""28312"",""2983 Yosemite Ct"","""",""Oxon"",""14"",""OX16 8RS"",""{CC8B745D-9705-464E-B63B-6CB4676947FC}"",""2013-08-11 00:00:00""
+""28987"",""7883 Mitchell Canyon Court"","""",""Oxon"",""14"",""OX16 8RS"",""{ACA8F41E-5873-4BA8-84C3-441952ED209E}"",""2013-04-09 00:00:00""

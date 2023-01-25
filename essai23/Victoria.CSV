@@ -1,0 +1,7 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22874"",""8155 Arnold Dr."","""",""Victoria"",""7"",""V8V"",""{2B301CC4-28C6-48E0-AA44-25DD5D4AC21F}"",""2013-12-12 00:00:00""
+""25331"",""8521 C Mt. Hood Circle"","""",""Victoria"",""7"",""V8V"",""{41C255AD-A865-47C7-8019-35DA468F3D23}"",""2013-10-10 00:00:00""
+""25931"",""9884 Pacifica Ave."","""",""Victoria"",""7"",""V8V"",""{FB9F588D-616F-4A26-ABBB-FC85B97F0709}"",""2013-01-08 00:00:00""
+""26098"",""5703 Donald Dr."","""",""Victoria"",""7"",""V8V"",""{6E0D6ACF-8722-402B-9130-AA4A877B090C}"",""2013-01-08 00:00:00""
+""26106"",""3220 Liscome Way"","""",""Victoria"",""7"",""V8V"",""{50725D5F-C58B-4F19-91EE-0BD2DD41A6BD}"",""2014-10-06 00:00:00""
+""28840"",""1673 Buena Vista"","""",""Victoria"",""7"",""V8V"",""{D0A8911D-DE8C-41E9-871B-12942D23E8D0}"",""2013-05-12 00:00:00""

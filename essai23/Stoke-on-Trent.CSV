@@ -1,0 +1,6 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22800"",""4629 Candellero Dr"","""",""Stoke-on-Trent"",""14"",""AS23"",""{F655656B-3592-452C-8182-8E1265BAC919}"",""2013-09-04 00:00:00""
+""25622"",""6683 Brookside Drive"","""",""Stoke-on-Trent"",""14"",""AS23"",""{91C19254-7D43-4CA2-9452-C6F57328DACB}"",""2013-07-09 00:00:00""
+""26170"",""5950 Coggins Drive"","""",""Stoke-on-Trent"",""14"",""AS23"",""{D016C920-D260-477B-A342-91AC9AFF3E2B}"",""2013-03-08 00:00:00""
+""26779"",""3973 Via Cordona Ln."","""",""Stoke-on-Trent"",""14"",""AS23"",""{A995708B-BC85-4164-9F27-2E36FE1BA027}"",""2013-04-09 00:00:00""
+""28578"",""3960 Seascape Circle"","""",""Stoke-on-Trent"",""14"",""AS23"",""{B19E61EC-EA39-414E-B106-61018B174DFB}"",""2013-11-11 00:00:00""

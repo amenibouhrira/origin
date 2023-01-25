@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22286"",""2823 La Orinda Pl."","""",""Glendale"",""9"",""91203"",""{80C0AC90-C7A8-4EFA-9424-B09863AF0C34}"",""2013-07-11 00:00:00""
+""25776"",""6525 Stonehedge Dr."","""",""Glendale"",""9"",""91203"",""{F3A9AC98-4256-4813-AFB3-6DA49B20BE32}"",""2014-07-03 00:00:00""
+""28545"",""6745 Blue Ridge Drive"","""",""Glendale"",""9"",""91203"",""{AB32D0A5-23D5-4693-8BC8-43F15DC2B757}"",""2013-04-10 00:00:00""
+""28854"",""5293 Juliet Court"","""",""Glendale"",""9"",""91203"",""{C033BFF4-DD61-4DA0-A843-EA42D0BC8F3B}"",""2014-12-05 00:00:00""

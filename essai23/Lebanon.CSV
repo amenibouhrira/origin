@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22046"",""921 Broadway"","""",""Lebanon"",""58"",""97355"",""{1D8FC2C4-3BF5-4B42-862C-4F240E94A873}"",""2012-07-07 00:00:00""
+""22545"",""302 Via Cordona Ln."","""",""Lebanon"",""58"",""97355"",""{F67F346D-DBA2-413D-AC16-1B693FCE177B}"",""2013-07-10 00:00:00""
+""22726"",""8474 Haynes Court"","""",""Lebanon"",""58"",""97355"",""{12D29ED3-99E3-4EB9-A90B-7AD8E405E4E2}"",""2013-04-11 00:00:00""
+""26045"",""5097 Bourton Ct."","""",""Lebanon"",""58"",""97355"",""{3F554DCE-D59D-443A-8CC7-3B83A84E8CB2}"",""2013-01-02 00:00:00""

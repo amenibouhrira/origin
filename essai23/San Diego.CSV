@@ -1,0 +1,6 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22502"",""3905 Mt. Trinity Court"","""",""San Diego"",""9"",""92102"",""{0EA4BC1B-3709-40B1-9B9A-73C541F6D531}"",""2013-09-10 00:00:00""
+""22765"",""9189 Shannon Ln."","""",""San Diego"",""9"",""92102"",""{031A0CAB-121B-46CD-ABFA-E4CCFE30C688}"",""2011-02-09 00:00:00""
+""23124"",""5047 Northwood Dr."","""",""San Diego"",""9"",""92102"",""{23CC0CD0-DE99-4B07-8FAA-F369BEB4487A}"",""2013-07-12 00:00:00""
+""26440"",""4566 Magnolia Ave."","""",""San Diego"",""9"",""92102"",""{7C8B1105-5F1C-4ADA-8F27-585553F34F5C}"",""2014-02-03 00:00:00""
+""28958"",""639 Bermad Drive"","""",""San Diego"",""9"",""92102"",""{92D5611A-CCDE-4323-B3CF-8FC3CEE4DFC4}"",""2013-03-09 00:00:00""

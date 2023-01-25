@@ -1,0 +1,6 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22151"",""9943 Northwood Drive"","""",""Wollongong"",""50"",""2500"",""{9926330E-E869-4A89-AD4A-86389477DAAC}"",""2014-10-05 00:00:00""
+""22981"",""5227 Sutton Circle"","""",""Wollongong"",""50"",""2500"",""{F336EF42-E508-4CD2-90D2-52898FF980CA}"",""2012-10-10 00:00:00""
+""23059"",""1412 San Marino Ct."","""",""Wollongong"",""50"",""2500"",""{612F7973-D6E4-4991-850C-5442AB5FB8EA}"",""2013-12-04 00:00:00""
+""25446"",""3196 Peachwillow"","""",""Wollongong"",""50"",""2500"",""{689BD562-759D-4332-94C6-078E3441A39A}"",""2011-02-06 00:00:00""
+""28564"",""1771 Wood Ranch Circle"","""",""Wollongong"",""50"",""2500"",""{B5B42DAA-54D1-427C-B140-DFA5D50B94B1}"",""2013-08-03 00:00:00""

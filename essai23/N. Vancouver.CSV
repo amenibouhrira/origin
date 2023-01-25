@@ -1,0 +1,8 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22168"",""7633 Greenhills Circle"","""",""N. Vancouver"",""7"",""V7L 4J4"",""{E2CDBBFB-CF9F-4140-8AFB-64F0474C7799}"",""2013-03-07 00:00:00""
+""22445"",""6503 Geneva Lane"","""",""N. Vancouver"",""7"",""V7L 4J4"",""{248BB620-F86A-45D2-954D-D7E8CCD00BC9}"",""2011-03-12 00:00:00""
+""25369"",""3994 Rancho View Drive"","""",""N. Vancouver"",""7"",""V7L 4J4"",""{D6508334-ADE5-41A4-90E5-F9208F648288}"",""2013-04-07 00:00:00""
+""25499"",""6262 Pine Tree Dr."","""",""N. Vancouver"",""7"",""V7L 4J4"",""{BE9F7CD2-DDD1-4C0E-A5C5-A91B6BF2EABD}"",""2013-09-04 00:00:00""
+""26572"",""2891 Sanford St."","""",""N. Vancouver"",""7"",""V7L 4J4"",""{46A7AB87-64A4-4C82-B792-608B8A3C93A3}"",""2014-01-04 00:00:00""
+""28160"",""5629 San Francisco"","""",""N. Vancouver"",""7"",""V7L 4J4"",""{BB186495-12D6-477C-BD13-94F749136354}"",""2014-08-04 00:00:00""
+""28364"",""5581 Stanford Street"","""",""N. Vancouver"",""7"",""V7L 4J4"",""{C4D8B1B7-B142-477C-AC42-4E7D3FB50980}"",""2012-04-12 00:00:00""

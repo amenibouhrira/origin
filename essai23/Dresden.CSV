@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22956"",""Postfach 11 09 00"","""",""Dresden"",""19"",""01071"",""{928C60EE-931C-46E1-BE1E-2F01BDE84783}"",""2012-05-10 00:00:00""
+""26147"",""Buergermeister-ulrich-str 95"","""",""Dresden"",""19"",""01071"",""{8BB04439-68D8-4CF0-9567-667EA8C3F27B}"",""2014-04-03 00:00:00""
+""28228"",""Moritzstr 123"","""",""Dresden"",""19"",""01071"",""{E793C0AA-BBD0-4409-AB0F-54493C207285}"",""2013-01-11 00:00:00""

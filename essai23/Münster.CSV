@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22780"",""Auf den Kuhlen Straße 5677"",""Verkaufsabteilung"",""Münster"",""70"",""48001"",""{0C8D236F-9CC8-4471-8CB0-A3006A2A5F16}"",""2013-07-12 00:00:00""
+""22917"",""Westheimer Straße 7606"",""Verkaufsabteilung"",""Münster"",""70"",""48001"",""{D18AC9F4-1A7A-4821-9082-48C326289F2E}"",""2014-09-03 00:00:00""
+""26226"",""Curieweg 5777"","""",""Münster"",""70"",""48001"",""{A728295D-8182-4DD1-A5A0-420F821BA181}"",""2011-01-07 00:00:00""
+""26800"",""Kampstr 7257"","""",""Münster"",""70"",""48001"",""{6F683956-6ED5-49A6-B0EB-A06190E4D5E6}"",""2014-03-03 00:00:00""

@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""26161"",""3387 El Campo Ct."","""",""Peterborough"",""14"",""PB12"",""{ACC1CEF8-3B40-4610-BF60-9823D683A3EE}"",""2013-07-12 00:00:00""
+""28249"",""2035 Emmons Canyon Lane"","""",""Peterborough"",""14"",""PB12"",""{2D2771BC-9E6F-4C1E-A082-1DD555B6CFDF}"",""2013-11-10 00:00:00""
+""28842"",""6766 Sea Ranch Ct."","""",""Peterborough"",""14"",""PB12"",""{1B2DA32E-DC6A-4040-8D92-43C3458BF36E}"",""2014-05-02 00:00:00""

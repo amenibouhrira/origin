@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""26276"",""9395 Asilomaar Dr"","""",""W. York"",""14"",""BD1 4SJ"",""{9FE334A8-AC48-49B2-ADDD-DE0501B87401}"",""2014-07-02 00:00:00""
+""26299"",""8656 Roskelley Dr."","""",""W. York"",""14"",""BD1 4SJ"",""{CA47FE1A-3CE0-4E4A-9220-D9E1EC7D29E6}"",""2014-10-03 00:00:00""
+""28844"",""4683 Tuolumne Way"","""",""W. York"",""14"",""BD1 4SJ"",""{5DDE6782-B893-4C37-B548-D398DE736845}"",""2013-07-12 00:00:00""
+""29041"",""844 Raven Court"","""",""W. York"",""14"",""BD1 4SJ"",""{62B10815-EFE9-4F26-A646-1FE8DBFD7869}"",""2014-02-04 00:00:00""

@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""25453"",""4166 Deercreek Ln."","""",""Lake Oswego"",""58"",""97034"",""{785C7EC2-056F-4B46-95AE-9A5A1785C9F0}"",""2014-12-04 00:00:00""
+""25689"",""4932 Reliz Valley Road"","""",""Lake Oswego"",""58"",""97034"",""{801C93A3-9D3D-42BF-A9D8-7B4601B82D2B}"",""2014-10-05 00:00:00""
+""25725"",""6468 Gatewood Court"","""",""Lake Oswego"",""58"",""97034"",""{1A5C68E8-B733-4F43-9B37-6345B2DACB2C}"",""2013-07-08 00:00:00""
+""26527"",""1940 Nulty Drive"","""",""Lake Oswego"",""58"",""97034"",""{FB2843C1-016B-4BE4-94DC-E4DB4E13B59B}"",""2013-06-12 00:00:00""

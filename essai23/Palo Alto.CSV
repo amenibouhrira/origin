@@ -1,0 +1,6 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22148"",""5751 Pine Creek Way"","""",""Palo Alto"",""9"",""94303"",""{52D44E93-0EB2-40B5-B453-F1F60077E8DC}"",""2014-11-04 00:00:00""
+""25330"",""444 Northstar Drive"","""",""Palo Alto"",""9"",""94303"",""{E1C456DA-A288-4D13-B085-F80BC2543C7F}"",""2013-09-12 00:00:00""
+""26073"",""3602 Banyan Circle"","""",""Palo Alto"",""9"",""94303"",""{E5E56C68-5478-4181-8EE8-6646708B6F4D}"",""2013-07-12 00:00:00""
+""28445"",""1487 Franklin Canyon Road"","""",""Palo Alto"",""9"",""94303"",""{F0AC12CE-DCD2-48B4-BFB7-145F2CAEE637}"",""2013-11-10 00:00:00""
+""28816"",""1326 Greenwood Place"","""",""Palo Alto"",""9"",""94303"",""{440379E3-7CD1-4DFE-AD6E-F8B2867BDB0F}"",""2012-04-07 00:00:00""

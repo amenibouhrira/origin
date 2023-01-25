@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""26337"",""9255 Westover Dr."","""",""San Francisco"",""9"",""94109"",""{5D19B92C-5CFB-409D-BAC7-6684AF67D327}"",""2014-04-03 00:00:00""
+""26760"",""8673 Mt. Wilson Way"","""",""San Francisco"",""9"",""94109"",""{45AFBD1D-2A37-464F-B467-258A20C6F2D6}"",""2012-11-05 00:00:00""
+""28758"",""4698 Royal Oak Rd."","""",""San Francisco"",""9"",""94109"",""{80B28F38-CE31-4BAC-A17D-63CD8530B626}"",""2013-09-09 00:00:00""

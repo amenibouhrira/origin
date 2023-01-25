@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22579"",""7356 Indigo Ct."","""",""San Gabriel"",""9"",""91776"",""{53536985-EFAD-4BB5-816E-E838E4D03D99}"",""2014-07-06 00:00:00""
+""23134"",""5474 Limewood Pl."","""",""San Gabriel"",""9"",""91776"",""{B512DBA3-DDF4-46C4-BBE9-2780287AA392}"",""2013-03-10 00:00:00""
+""28852"",""8924 Lindley Ct."","""",""San Gabriel"",""9"",""91776"",""{309259D1-BD28-40B9-BCE8-947FAC1C12D0}"",""2014-02-04 00:00:00""

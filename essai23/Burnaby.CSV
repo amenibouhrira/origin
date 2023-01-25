@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22886"",""445 San Carlos Avenue"","""",""Burnaby"",""7"",""V3J 6Z3"",""{7E9D05A2-39B3-4130-AA40-ECDEA1DA4AC7}"",""2014-08-02 00:00:00""
+""28989"",""9123 James Donlon Blvd"","""",""Burnaby"",""7"",""V3J 6Z3"",""{3577310A-AC82-4825-BFCE-A3955FC6832A}"",""2012-07-02 00:00:00""
+""29016"",""1161 Pine Hollow Road"","""",""Burnaby"",""7"",""V3J 6Z3"",""{34347EE9-F118-4DF0-8F07-339E180CA6DD}"",""2013-02-12 00:00:00""

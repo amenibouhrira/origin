@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22389"",""8646 Sherry Circle"","""",""Oxford"",""14"",""OX1"",""{514B3797-DF4B-4319-A4C4-6297358A1829}"",""2013-11-04 00:00:00""
+""22582"",""5118 Colorado Dr"","""",""Oxford"",""14"",""OX14 4SE"",""{63BD5B10-BAB2-4804-A8D8-3C1BF9A71701}"",""2013-03-07 00:00:00""
+""28334"",""6819 Meadow Lane"","""",""Oxford"",""14"",""OX14 4SE"",""{C04F6042-4811-4D52-B091-05856EE37595}"",""2013-04-12 00:00:00""
+""28669"",""6668 Mazatlan"","""",""Oxford"",""14"",""OX1"",""{B5A9EBC9-D495-46D8-8A69-A33EACB436FC}"",""2013-04-07 00:00:00""

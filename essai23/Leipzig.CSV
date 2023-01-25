@@ -1,0 +1,5 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""26672"",""Welt Platz 33"","""",""Leipzig"",""53"",""04139"",""{1CBB7AE9-6254-4413-9B41-42E641FD7EFF}"",""2013-04-10 00:00:00""
+""28288"",""Werftstr 54"","""",""Leipzig"",""53"",""04139"",""{3C7FAD95-2005-43C5-A278-F6441CA90FBE}"",""2014-06-02 00:00:00""
+""28497"",""Wallstr 824"","""",""Leipzig"",""53"",""04139"",""{C691B32D-E8EF-4167-ACE9-DCCAE839A4B5}"",""2012-01-05 00:00:00""
+""28797"",""Wasserstr 22"","""",""Leipzig"",""53"",""04139"",""{C8D2A08A-F33A-465D-8649-F19FA9FCBF65}"",""2014-08-03 00:00:00""

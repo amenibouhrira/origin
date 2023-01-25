@@ -1,0 +1,6 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22049"",""Marketplatz 5193"","""",""Braunschweig"",""53"",""38001"",""{D321B8BA-FAF7-4941-8E2B-099678B2AC72}"",""2012-05-11 00:00:00""
+""22234"",""Alte Landstr 1595"","""",""Braunschweig"",""53"",""38001"",""{548A8E8E-928C-49A8-A43D-3A44062E92E9}"",""2013-08-07 00:00:00""
+""22302"",""Kurfürstenstr 50"",""Einkaufsabteilung"",""Braunschweig"",""53"",""38001"",""{82305221-FC91-44D8-A45C-C0FF2BF3A4BF}"",""2011-08-10 00:00:00""
+""25350"",""Am Gallberg 61"","""",""Braunschweig"",""53"",""38001"",""{595FB68D-9AC4-47A3-9641-25E407107BB3}"",""2013-10-12 00:00:00""
+""25950"",""Berliner Platz 4"","""",""Braunschweig"",""53"",""38001"",""{511F50EB-3D43-4D8F-A0D1-EF27BC5AE71F}"",""2014-05-04 00:00:00""

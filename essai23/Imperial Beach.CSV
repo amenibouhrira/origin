@@ -1,0 +1,6 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""22315"",""2914 St. George Dr."","""",""Imperial Beach"",""9"",""91932"",""{D57333AF-6456-4BA9-B9E2-8EE5E910C155}"",""2014-03-05 00:00:00""
+""22610"",""6208 Hedaro Court"","""",""Imperial Beach"",""9"",""91932"",""{89F3514E-FA72-43FC-B1FC-BFCB5A52DFA7}"",""2012-01-10 00:00:00""
+""28163"",""6951 Harmony Way"","""",""Imperial Beach"",""9"",""91932"",""{6D00DA5D-F357-42BC-B3C0-90792BE2FC62}"",""2013-12-12 00:00:00""
+""28756"",""6621 Polaris Dr."","""",""Imperial Beach"",""9"",""91932"",""{B2D1453D-C5D6-4F2C-8914-DBFDEEF2DBFA}"",""2014-02-02 00:00:00""
+""28963"",""5678 Arlington Way"","""",""Imperial Beach"",""9"",""91932"",""{AFF6D4A6-40A4-40BC-BA74-9A91FC56B653}"",""2014-04-04 00:00:00""

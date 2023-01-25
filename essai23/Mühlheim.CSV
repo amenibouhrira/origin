@@ -1,0 +1,4 @@
+""AddressID"",""AddressLine1"",""AddressLine2"",""City"",""StateProvinceID"",""PostalCode"",""rowguid"",""ModifiedDate""
+""26250"",""Alte Landstr 3"","""",""Mühlheim"",""20"",""63151"",""{AC9D62D3-AC28-4E37-A2EB-BC737631F03E}"",""2013-01-08 00:00:00""
+""26482"",""Galeriestr 123"","""",""Mühlheim"",""20"",""63151"",""{9151A3D6-4715-4E99-ADDF-1DE564A9BA36}"",""2013-04-03 00:00:00""
+""28368"",""Winterfeldtstr 249"","""",""Mühlheim"",""20"",""63151"",""{5DBDAC71-12BC-423D-B4B5-7036E42D74E2}"",""2014-05-03 00:00:00""
